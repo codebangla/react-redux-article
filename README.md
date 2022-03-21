@@ -4,7 +4,7 @@ This is an React Redux project for a simple article application.
 
 # Screenshot
 
-![romy logo](https://github.com/codebangla/portfolio/blob/master/src/assets/public/react-redux-article-demo.png)
+![romy logo](https://github.com/codebangla/react-redux-article/blob/master/public/react-redux-article-demo.png)
 
 ## How to run this project
 
